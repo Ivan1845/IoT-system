@@ -1,0 +1,40 @@
+1772064463: mosquitto version 2.1.2 starting
+1772064463: Config loaded from /mosquitto/config/mosquitto.conf.
+1772064463: Bridge support available.
+1772064463: Persistence support available.
+1772064463: TLS support available.
+1772064463: TLS-PSK support available.
+1772064463: Websockets support available.
+1772064463: Opening ipv4 listen socket on port 1883.
+1772064463: Opening ipv6 listen socket on port 1883.
+1772064463: mosquitto version 2.1.2 running
+1772064463: New connection from 172.18.0.3:47751 on port 1883.
+1772064463: New client connected from 172.18.0.3:47751 as auto-1AAD9074-7D68-E6F2-2803-E5D07912E882 (p4, c1, k60).
+1772064464: Client auto-1AAD9074-7D68-E6F2-2803-E5D07912E882 [172.18.0.3:47751] disconnected: connection closed by client.
+1772064701: New connection from 172.18.0.1:56010 on port 1883.
+1772064701: New client connected from 172.18.0.1:56010 as mqtt-explorer-9a3f49d4 (p4, c1, k60).
+1772065347: New connection from 172.18.0.3:51291 on port 1883.
+1772065347: New client connected from 172.18.0.3:51291 as auto-D1F4BD18-5CF2-DB4A-D762-F27120F13554 (p4, c1, k60).
+1772065347: Client auto-D1F4BD18-5CF2-DB4A-D762-F27120F13554 [172.18.0.3:51291] disconnected: connection closed by client.
+1772065803: mosquitto version 2.1.2 terminating
+1772065803: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1772065811: mosquitto version 2.1.2 starting
+1772065811: Config loaded from /mosquitto/config/mosquitto.conf.
+1772065811: Bridge support available.
+1772065811: Persistence support available.
+1772065811: TLS support available.
+1772065811: TLS-PSK support available.
+1772065811: Websockets support available.
+1772065811: Opening ipv4 listen socket on port 1883.
+1772065811: Opening ipv6 listen socket on port 1883.
+1772065811: mosquitto version 2.1.2 running
+1772065812: New connection from 172.18.0.1:57498 on port 1883.
+1772065812: New client connected from 172.18.0.1:57498 as mqtt-explorer-9a3f49d4 (p4, c1, k60).
+1772065812: New connection from 172.18.0.3:52385 on port 1883.
+1772065812: New client connected from 172.18.0.3:52385 as auto-480B3971-E64D-1192-35FB-9C26C05BB040 (p4, c1, k60).
+1772066698: Client auto-480B3971-E64D-1192-35FB-9C26C05BB040 [172.18.0.3:52385] disconnected: connection closed by client.
+1772066699: New connection from 172.18.0.3:59833 on port 1883.
+1772066699: New client connected from 172.18.0.3:59833 as auto-C6A925EE-2405-A6D1-EF90-C09768A62D10 (p4, c1, k60).
+1772066814: Client mqtt-explorer-9a3f49d4 [172.18.0.1:57498] disconnected.
+1772066829: mosquitto version 2.1.2 terminating
+1772066829: Saving in-memory database to /mosquitto/data//mosquitto.db.
